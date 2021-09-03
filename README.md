@@ -1,6 +1,6 @@
 # FASTQ_Analyzer
 
-<img src="https://github.com/SRingshandl/FASTQ_Analyzer/blob/main/Example_Image.png" width="100%">
+<img src="https://github.com/SRingshandl/FASTQ_Analyzer/blob/main/Example-Image.png" width="100%">
 
 Final Unix/Perl Course Project 2016.  
 Reads a FASTQ file, trims and filters sequences according to user specification. Additional graphics output!  
